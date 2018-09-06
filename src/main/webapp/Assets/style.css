@@ -21,6 +21,7 @@
 
 
 
+
 #container{
     width: 226px;
     height: 274px;
@@ -81,3 +82,9 @@ body {
     background-color: orange;
     color: white;
 }
+textarea {
+  resize: none;
+  margin-bottom: 10px;
+  
+}
+
