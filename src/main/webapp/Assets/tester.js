@@ -5,3 +5,5 @@ function setText() {
     document.getElementById("totype").innerHTML = text;
 }
 
+setText();
+
